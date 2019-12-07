@@ -19,11 +19,11 @@
     compile and upload this ino to your keyboard
     open KeyValue.ino in your favorite IDE
     and press the keys of your keyboard
-    //004 a 004
+    //004 q 004
     004 is the HID value
-    a is the letter "pressed"
+    q is the letter "pressed"
 
-    if you don't want to assign an HID value just press the first key = a    
+    if you don't want to assign an HID value just press the first key = q    
 */
 #include <KeyboardHID.h>
 
